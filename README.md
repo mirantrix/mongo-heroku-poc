@@ -1,2 +1,1 @@
-# mongo-heroku-poc
-MongoDB on Heroku PoC
+# mongodb-heroku-poc

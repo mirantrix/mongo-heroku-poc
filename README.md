@@ -5,7 +5,7 @@ mongo-heroku-poc
 
 
 # Description
-Deploy Node App to a Cloud Plataform (PoC)
+Deploy MongoDB to a Cloud Plataform (PoC)
 
 
 # Proof of Concept
